@@ -1,4 +1,4 @@
-<h1>Authentication by using social media Facebook and Google by following the mechanism of open ID with php composer</h1>
+<h1>Authentication by using social media Google by following the mechanism of open ID with php composer</h1>
 
 <h3>Title of project: Authentication by using single sign-on</h3>
 
