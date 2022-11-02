@@ -22,7 +22,6 @@ In this project we are going to implement authentication by using single sign-on
 2.	In server file we grab this information and apply authentication functionality on it.
 <h3>Front end code with backlinks:</h3>
 
-For facebook we use: authentication/backend.php?keyword=facebook 
 For google we use: authentication/backend.php?keyword=google
 
 <h3>Backend code: </h3>
